@@ -52,7 +52,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/puppy-gallery.git
+git clone https://github.com/Thilaga2022/puppyGallery-react.git
 cd puppy-gallery
 Install dependencies:
 
